@@ -1,0 +1,29 @@
+
+body {
+  background-image: url("ruta/a/tu/imagen/de/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.form-group {
+  text-align: left;
+}
+
+.login-img {
+  float: right;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+
+.login-img img {
+  height: 80px;
+  width: 80px;
+}
+
+.btn {
+  margin-top: 20px;
+}
